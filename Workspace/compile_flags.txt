@@ -1,0 +1,10 @@
+-IE:\CodeLite\Compiler\Installation_File\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++
+-IE:\CodeLite\Compiler\Installation_File\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\x86_64-w64-mingw32
+-IE:\CodeLite\Compiler\Installation_File\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\backward
+-IE:\CodeLite\Compiler\Installation_File\lib\gcc\x86_64-w64-mingw32\5.1.0\include
+-IE:\CodeLite\Compiler\Installation_File\include
+-IE:\CodeLite\Compiler\Installation_File\lib\gcc\x86_64-w64-mingw32\5.1.0\include-fixed
+-IE:\CodeLite\Compiler\Installation_File\x86_64-w64-mingw32\include
+-IE:\CodeLite\Workspace\Workspace\Workspace
+-target
+x86_64-pc-windows-gnu
